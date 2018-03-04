@@ -159,5 +159,4 @@ function handleKeyPress(e) {
 
 window.onload = init
 
-// dodano costam
-// dodano costam 2
+// dodano costam 3

@@ -158,3 +158,5 @@ function handleKeyPress(e) {
 }
 
 window.onload = init
+
+// dodano costam
